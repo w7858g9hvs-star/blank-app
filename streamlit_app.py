@@ -2,7 +2,6 @@ import json
 from pathlib import Path
 
 import streamlit as st
-import matplotlib.pyplot as plt
 from datetime import datetime, date, time
 from zoneinfo import ZoneInfo  # Python 3.9+
 
